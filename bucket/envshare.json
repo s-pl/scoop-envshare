@@ -1,0 +1,13 @@
+{
+  "version": "1.0.7",
+  "description": "CLI for envShare — self-hosted secrets management for development teams",
+  "homepage": "https://github.com/s-pl/envShare",
+  "license": "MIT",
+  "architecture": {
+    "64bit": {
+      "url": "https://github.com/s-pl/envShare/releases/download/v1.0.7/envshare-windows-x64.exe",
+      "hash": "4a7a51f81d026239a7a68b6688ef431bf4504052e4144c976c0ce2b95bb33f24"
+    }
+  },
+  "bin": [["envshare-windows-x64.exe", "envshare"]]
+}
