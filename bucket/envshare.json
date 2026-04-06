@@ -6,7 +6,7 @@
   "architecture": {
     "64bit": {
       "url": "https://github.com/s-pl/envShare/releases/download/v2.0.0/envshare-windows-x64.exe",
-      "hash": "99ea133c653d00b3b0d04f4472a748d3bab4b0aea7330c0dfdf41944ee84697b"
+      "hash": "be62b6aa03dd87b19bdf14aa3dbde6d1d2643f8f27b43ff3b5949646df912a78"
     }
   },
   "bin": [["envshare-windows-x64.exe", "envshare"]]
